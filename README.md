@@ -78,7 +78,7 @@ My foundation is in **C++, Python, and SQL Server**, and I build my problem-solv
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcode-stats-hashnode.vercel.app/api?username=Muntazir_mehdi9742&theme=dark)](https://leetcode.com/u/Muntazir_mehdi9742/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Muntazir_mehdi9742?theme=dark&ext=heatmap)](https://leetcode.com/u/Muntazir_mehdi9742/)
 
 </div>
 
@@ -91,9 +91,11 @@ My foundation is in **C++, Python, and SQL Server**, and I build my problem-solv
 <img src="https://github-readme-stats.vercel.app/api?username=Muntazir-Mehdi313&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muntazir-Mehdi313&layout=compact&theme=chartreuse-dark&hide_border=true" width="30%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muntazir-Mehdi313&theme=chartreuse-dark&hide_border=true" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Muntazir-Mehdi313&theme=chartreuse-dark&hide_border=true" width="49%" />
 
 </div>
+
+<sub>If the GitHub Stats card above ever shows broken, it's the shared public instance being rate-limited (a known, common issue) — see the note at the bottom of this README for a 2-minute self-host fix.</sub>
 
 ---
 
@@ -107,3 +109,7 @@ Open to collaborating on AI/ML projects, backend systems, or anything that combi
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muntazir-Mehdi313)
 
 </div>
+
+---
+
+<sub>**Note on the GitHub Stats card:** it's powered by the free, publicly shared `github-readme-stats` instance, which occasionally goes down when overloaded (this affects everyone using it, across all of GitHub — not a config issue). If it's ever broken for more than a few minutes, the permanent fix is deploying your own private copy: click ["Deploy to Vercel"](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) on the project's repo, log in with GitHub, deploy (takes ~1 minute, free), then swap `github-readme-stats.vercel.app` in the two image URLs above for your new `<your-project>.vercel.app` domain. After that it's 100% yours and won't go down from other people's traffic.</sub>
